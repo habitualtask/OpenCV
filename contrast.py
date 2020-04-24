@@ -1,3 +1,4 @@
+"""BIT단위로 밝기해상도 조절"""
 import cv2
 
 original = cv2.imread("song.jpg", cv2.IMREAD_COLOR)
