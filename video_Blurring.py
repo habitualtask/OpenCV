@@ -1,3 +1,4 @@
+"""영상신호처리 - 블러링"""
 import cv2
 import numpy as np
 image = cv2.imread("Lenna.png")
